@@ -1,0 +1,7 @@
+.events {
+    border-style: groove;
+}
+
+.event {
+    border-style: inherit;
+}
